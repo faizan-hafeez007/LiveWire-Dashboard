@@ -1,6 +1,6 @@
 <!-- login.blade.php -->
 
-<div style="display: flex; justify-content: center; align-items: center; height: 90vh; background-color: #f8f8f8;">
+<div style="display: flex; justify-content: center; align-items: center; height: 90vh; background: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%">
     <form class="w-6/12 h-6/12 p-6 mt-12 bg-white rounded shadow-lg" wire:submit.prevent="login"
         style="border: 1px solid #e2e8f0;">
         <h1 class="text-center text-2xl font-bold mb-5">Log In</h1>
